@@ -8,4 +8,4 @@ Then you will be redirected to the entrance hall of the casino, where you can se
 After you withdrew some money from the bank account into your pocket, you can choose which avialable gaming room you want to enter. 
 When you are finished winning or losing your egodcoins, you can leave the room to go back to the entrance hall and pick up more money, switch to a different room, or exit the casino.
 Leaving the casino will automaticallly store all egodcoins from your pocket into the bank account.
-There will also be a highscore board in the entrance hall which shows the top 10 richest players and their amount of egodcoin.
+There will also be a highscore board in the entrance hall which shows the top 10 richest players and their amount of egodcoins.
