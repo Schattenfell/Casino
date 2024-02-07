@@ -4,8 +4,8 @@ The casino should be accessible from mobile devices and desktop pc's. The artwor
 The first game is called: Coinflip.
 The second game is called: High or Low.
 If you enter the website, the casino will ask you to log in to your account, or to create one. 
-Then you will be redirected to the entrance hall of the casino, where you can see youre "bank account" and how much money you have stored on it. Every new registered account gets 10,000 egodcoin's (the currency used in the casino).
-After you withdraw some money from the bank account into youre pocket, you can choose which avialable gaming room you want to enter. 
+Then you will be redirected to the entrance hall of the casino, where you can see your "bank account" and how much money you have stored on it. Every new registered account gets 10,000 egodcoins (the currency used in the casino). If you have lost all youre egodcoins, you need to wait 24 hours to get 1,000 egodcoins as a gift for your loyalty.
+After you withdrew some money from the bank account into your pocket, you can choose which avialable gaming room you want to enter. 
 When you are finished winning or losing your egodcoins, you can leave the room to go back to the entrance hall and pick up more money, switch to a different room, or exit the casino.
 Leaving the casino will automaticallly store all egodcoins from your pocket into the bank account.
-
+There will also be a highscore board in the entrance hall which shows the top 10 richest players and their amount of egodcoin.
